@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+}
+.calculator{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+}
+input{
+  padding: 20px 40px;
+  margin : 10px;
+  font-size: 100%;
+}
+input:hover{
+  background-color: white;
+}

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+nav a{
+    display: flex;
+}
+nav p{
+    font-family: 'Caramel', cursive;
+    font-size: 60px;
+}
+nav img{
+    margin: 10px 20px 0 60px;
+}
+nav{
+    margin: 0;
+}
+.blog
+{
+    margin:10px 0 0 0;
+    padding:30px;
+    border-radius: 10px;
+}
+.container
+{
+    display: flex;
+}
+#form
+{
+    width: 30%;
+    margin:5%;
+}
+#allblogs
+{
+    width:70%;
+    
+}
